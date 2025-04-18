@@ -3,8 +3,12 @@ Handy Clippies - A simple chrome extension to keep collection of texts handy for
 
 
 ## 🧩 Features
-<!-- Add features here -->
-- ✅ [Features are loading, please come back later...]
+
+- ✅ Draggable popup container
+- ✅ Alert notification when opening extension on "chrome://" or "chrome-extension://" or incase of error
+- ✅ Add handy texts with a name to save
+- ✅ Add copy and delete buttons for handy texts
+- ✅ Store and retrieve handy texts from local chrome storage of the device.
 
 
 ## 📦 Installation on local browser

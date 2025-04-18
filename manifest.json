@@ -11,7 +11,8 @@
 	},
 	"permissions": [
 		"scripting",
-		"notifications"
+		"notifications",
+		"storage"
 	],
 	"web_accessible_resources": [
 		{
