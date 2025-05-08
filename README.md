@@ -2,7 +2,7 @@
 A simple chrome extension to keep collection of texts handy for repeated usage of these texts.
 
 
-## 🧩 Features
+### 🧩 Features
 
 - ✅ Draggable popup container
 - ✅ Alert notification when opening extension on "chrome://" or "chrome-extension://" or incase of error
@@ -11,7 +11,7 @@ A simple chrome extension to keep collection of texts handy for repeated usage o
 - ✅ Store and retrieve handy texts from local chrome storage of the device.
 
 
-## 📦 Installation on local browser
+### 📦 Installation on local browser
 
 1. Clone this repo or download the `.zip`.
 2. Go to `chrome://extensions/` in your browser.
@@ -19,7 +19,7 @@ A simple chrome extension to keep collection of texts handy for repeated usage o
 4. Click **Load unpacked** and select the extension's folder.
 
 
-## 🛠️ Developed on
+### 🛠️ Developed on
 
 HTML, CSS, JavaScript
 
