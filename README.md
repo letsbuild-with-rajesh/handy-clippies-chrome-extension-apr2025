@@ -1,5 +1,5 @@
-# 🚀 Project
-Handy Clippies - A simple chrome extension to keep collection of texts handy for repeated usage of these texts.
+# 🚀 Handy Clippies
+A simple chrome extension to keep collection of texts handy for repeated usage of these texts.
 
 
 ## 🧩 Features
@@ -22,3 +22,6 @@ Handy Clippies - A simple chrome extension to keep collection of texts handy for
 ## 🛠️ Developed on
 
 HTML, CSS, JavaScript
+
+#### Pull project with
+`git clone git@github.com:letsbuild-with-rajesh/handy-clippies-chrome-extension-apr2025.git`
